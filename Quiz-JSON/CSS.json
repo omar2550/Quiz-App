@@ -1,0 +1,298 @@
+[
+    {
+        "title": "What does CSS stand for?",
+        "answer-1": "Cascading Style Sheets",
+        "answer-2": "Computer Style Sheets",
+        "answer-3": "Creative Style System",
+        "answer-4": "Colorful Style Sheets",
+        "correct-answer": "Cascading Style Sheets"
+    },
+    {
+        "title": "Which HTML tag is used to link an external CSS file?",
+        "answer-1": "<css>",
+        "answer-2": "<link>",
+        "answer-3": "<style>",
+        "answer-4": "<script>",
+        "correct-answer": "<link>"
+    },
+    {
+        "title": "Which property is used to change the text color in CSS?",
+        "answer-1": "font-color",
+        "answer-2": "color",
+        "answer-3": "text-color",
+        "answer-4": "background-color",
+        "correct-answer": "color"
+    },
+    {
+        "title": "How do you select an element with id 'header' in CSS?",
+        "answer-1": ".header",
+        "answer-2": "#header",
+        "answer-3": "header",
+        "answer-4": "*header",
+        "correct-answer": "#header"
+    },
+    {
+        "title": "Which property is used to change the background color?",
+        "answer-1": "color",
+        "answer-2": "background-color",
+        "answer-3": "bgcolor",
+        "answer-4": "background",
+        "correct-answer": "background-color"
+    },
+    {
+        "title": "Which CSS property controls the text size?",
+        "answer-1": "font-style",
+        "answer-2": "text-size",
+        "answer-3": "font-size",
+        "answer-4": "size",
+        "correct-answer": "font-size"
+    },
+    {
+        "title": "How do you make text bold in CSS?",
+        "answer-1": "font-weight: bold;",
+        "answer-2": "font-style: bold;",
+        "answer-3": "text-weight: bold;",
+        "answer-4": "bold: true;",
+        "correct-answer": "font-weight: bold;"
+    },
+    {
+        "title": "Which property is used to add space inside an element?",
+        "answer-1": "margin",
+        "answer-2": "padding",
+        "answer-3": "border",
+        "answer-4": "spacing",
+        "correct-answer": "padding"
+    },
+    {
+        "title": "Which property is used to add space outside an element?",
+        "answer-1": "margin",
+        "answer-2": "padding",
+        "answer-3": "border",
+        "answer-4": "spacing",
+        "correct-answer": "margin"
+    },
+    {
+        "title": "How do you select all <p> elements in CSS?",
+        "answer-1": "#p",
+        "answer-2": ".p",
+        "answer-3": "p",
+        "answer-4": "*p",
+        "correct-answer": "p"
+    },
+    {
+        "title": "Which value of position property makes an element stay in the same place even when the page is scrolled?",
+        "answer-1": "relative",
+        "answer-2": "fixed",
+        "answer-3": "absolute",
+        "answer-4": "static",
+        "correct-answer": "fixed"
+    },
+    {
+        "title": "How do you make a list not display bullet points?",
+        "answer-1": "list-style-type: none;",
+        "answer-2": "bullet: none;",
+        "answer-3": "list-type: none;",
+        "answer-4": "text-decoration: none;",
+        "correct-answer": "list-style-type: none;"
+    },
+    {
+        "title": "Which property is used to change the font of an element?",
+        "answer-1": "font-family",
+        "answer-2": "font-style",
+        "answer-3": "font-weight",
+        "answer-4": "font-type",
+        "correct-answer": "font-family"
+    },
+    {
+        "title": "How do you make a border with rounded corners?",
+        "answer-1": "border-radius",
+        "answer-2": "border-corner",
+        "answer-3": "border-style: round;",
+        "answer-4": "corner-radius",
+        "correct-answer": "border-radius"
+    },
+    {
+        "title": "Which property is used to hide an element?",
+        "answer-1": "display: none;",
+        "answer-2": "visibility: hidden;",
+        "answer-3": "Both A and B",
+        "answer-4": "opacity: 0;",
+        "correct-answer": "Both A and B"
+    },
+    {
+        "title": "How do you select all elements with class 'menu'?",
+        "answer-1": "#menu",
+        "answer-2": ".menu",
+        "answer-3": "menu",
+        "answer-4": "*menu",
+        "correct-answer": ".menu"
+    },
+    {
+        "title": "Which property is used to change the spacing between letters?",
+        "answer-1": "letter-spacing",
+        "answer-2": "word-spacing",
+        "answer-3": "line-height",
+        "answer-4": "text-spacing",
+        "correct-answer": "letter-spacing"
+    },
+    {
+        "title": "How do you make an element display as a block?",
+        "answer-1": "display: block;",
+        "answer-2": "block: true;",
+        "answer-3": "display: inline;",
+        "answer-4": "block-display: yes;",
+        "correct-answer": "display: block;"
+    },
+    {
+        "title": "Which CSS property is used to change the left margin of an element?",
+        "answer-1": "margin-left",
+        "answer-2": "padding-left",
+        "answer-3": "left-margin",
+        "answer-4": "margin",
+        "correct-answer": "margin-left"
+    },
+    {
+        "title": "How do you add a comment in CSS?",
+        "answer-1": "// this is a comment",
+        "answer-2": "<!-- this is a comment -->",
+        "answer-3": "/* this is a comment */",
+        "answer-4": "# this is a comment",
+        "correct-answer": "/* this is a comment */"
+    },
+    {
+        "title": "Which property is used to set the size of the background image?",
+        "answer-1": "background-size",
+        "answer-2": "background-image-size",
+        "answer-3": "bg-size",
+        "answer-4": "image-size",
+        "correct-answer": "background-size"
+    },
+    {
+        "title": "How do you make a flex container?",
+        "answer-1": "display: flex;",
+        "answer-2": "flex: container;",
+        "answer-3": "container: flex;",
+        "answer-4": "display: block;",
+        "correct-answer": "display: flex;"
+    },
+    {
+        "title": "Which property is used to align text to the center?",
+        "answer-1": "text-align: center;",
+        "answer-2": "align: center;",
+        "answer-3": "center-text: true;",
+        "answer-4": "text-center: yes;",
+        "correct-answer": "text-align: center;"
+    },
+    {
+        "title": "How do you select only <a> elements that are hovered?",
+        "answer-1": "a:hover",
+        "answer-2": "a.active",
+        "answer-3": "a.selected",
+        "answer-4": "a:focus",
+        "correct-answer": "a:hover"
+    },
+    {
+        "title": "Which property is used to add shadow to text?",
+        "answer-1": "text-shadow",
+        "answer-2": "box-shadow",
+        "answer-3": "shadow-text",
+        "answer-4": "font-shadow",
+        "correct-answer": "text-shadow"
+    },
+    {
+        "title": "Which CSS unit is relative to the font-size of the element?",
+        "answer-1": "em",
+        "answer-2": "px",
+        "answer-3": "cm",
+        "answer-4": "pt",
+        "correct-answer": "em"
+    },
+    {
+        "title": "Which CSS property is used to create a grid layout?",
+        "answer-1": "display: grid;",
+        "answer-2": "grid-template;",
+        "answer-3": "layout: grid;",
+        "answer-4": "grid-layout;",
+        "correct-answer": "display: grid;"
+    },
+    {
+        "title": "What is the default value of the 'position' property in CSS?",
+        "answer-1": "relative",
+        "answer-2": "absolute",
+        "answer-3": "static",
+        "answer-4": "fixed",
+        "correct-answer": "static"
+    },
+    {
+        "title": "Which pseudo-class targets the first child element of its parent?",
+        "answer-1": ":first-child",
+        "answer-2": ":first",
+        "answer-3": ":first-of-type",
+        "answer-4": ":nth-child(1)",
+        "correct-answer": ":first-child"
+    },
+    {
+        "title": "How do you apply a style only when printing a page?",
+        "answer-1": "@media print { ... }",
+        "answer-2": "@print { ... }",
+        "answer-3": "@media screen { ... }",
+        "answer-4": "@media printer { ... }",
+        "correct-answer": "@media print { ... }"
+    },
+    {
+        "title": "Which property is used for controlling the stacking order of positioned elements?",
+        "answer-1": "z-index",
+        "answer-2": "stack-order",
+        "answer-3": "order",
+        "answer-4": "layer",
+        "correct-answer": "z-index"
+    },
+    {
+        "title": "What does the 'calc()' function do in CSS?",
+        "answer-1": "Performs calculations to determine CSS property values",
+        "answer-2": "Calculates the number of elements",
+        "answer-3": "Calculates the color value",
+        "answer-4": "Calculates the font size only",
+        "correct-answer": "Performs calculations to determine CSS property values"
+    },
+    {
+        "title": "Which property is used to control how content overflows an element's box?",
+        "answer-1": "overflow",
+        "answer-2": "flow",
+        "answer-3": "display",
+        "answer-4": "content-overflow",
+        "correct-answer": "overflow"
+    },
+    {
+        "title": "How do you select every even row in a table using CSS?",
+        "answer-1": "tr:nth-child(even)",
+        "answer-2": "tr:even",
+        "answer-3": "tr:nth-row(even)",
+        "answer-4": "tr:nth-of-type(even)",
+        "correct-answer": "tr:nth-child(even)"
+    },
+    {
+        "title": "Which CSS property allows you to specify multiple background images?",
+        "answer-1": "background-image",
+        "answer-2": "backgrounds",
+        "answer-3": "multi-background",
+        "answer-4": "background-multi",
+        "correct-answer": "background-image"
+    },
+    {
+        "title": "What is the effect of 'box-sizing: border-box;'?",
+        "answer-1": "Padding and border are included in the element's total width and height",
+        "answer-2": "Only content is included in the width and height",
+        "answer-3": "Only border is included in the width and height",
+        "answer-4": "It removes the border",
+        "correct-answer": "Padding and border are included in the element's total width and height"
+    },
+    {
+        "title": "Which CSS property is used to create a transition effect?",
+        "answer-1": "transition",
+        "answer-2": "animation",
+        "answer-3": "effect",
+        "answer-4": "transform",
+        "correct-answer": "transition"
+    }
+]

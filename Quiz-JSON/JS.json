@@ -1,0 +1,282 @@
+[
+    {
+        "title": "Which of the following is a JavaScript framework?",
+        "answer-1": "React",
+        "answer-2": "Laravel",
+        "answer-3": "Django",
+        "answer-4": "Flask",
+        "correct-answer": "React"
+    },
+    {
+        "title": "Which company developed JavaScript?",
+        "answer-1": "Netscape",
+        "answer-2": "Microsoft",
+        "answer-3": "Google",
+        "answer-4": "Apple",
+        "correct-answer": "Netscape"
+    },
+    {
+        "title": "Which symbol is used for single-line comments in JavaScript?",
+        "answer-1": "//",
+        "answer-2": "/*",
+        "answer-3": "<!--",
+        "answer-4": "#",
+        "correct-answer": "//"
+    },
+    {
+        "title": "How do you declare a variable in JavaScript?",
+        "answer-1": "var myVar;",
+        "answer-2": "int myVar;",
+        "answer-3": "let myVar;",
+        "answer-4": "Both var myVar; and let myVar;",
+        "correct-answer": "Both var myVar; and let myVar;"
+    },
+    {
+        "title": "Which of the following is NOT a JavaScript data type?",
+        "answer-1": "Number",
+        "answer-2": "String",
+        "answer-3": "Boolean",
+        "answer-4": "Float",
+        "correct-answer": "Float"
+    },
+    {
+        "title": "How do you write 'Hello World' in an alert box?",
+        "answer-1": "alert('Hello World');",
+        "answer-2": "msg('Hello World');",
+        "answer-3": "alertBox('Hello World');",
+        "answer-4": "msgBox('Hello World');",
+        "correct-answer": "alert('Hello World');"
+    },
+    {
+        "title": "Which operator is used to assign a value to a variable?",
+        "answer-1": "=",
+        "answer-2": "==",
+        "answer-3": "===",
+        "answer-4": ":=",
+        "correct-answer": "="
+    },
+    {
+        "title": "How do you create a function in JavaScript?",
+        "answer-1": "function myFunction() {}",
+        "answer-2": "def myFunction() {}",
+        "answer-3": "function:myFunction() {}",
+        "answer-4": "create myFunction() {}",
+        "correct-answer": "function myFunction() {}"
+    },
+    {
+        "title": "Which method adds a new element to the end of an array?",
+        "answer-1": "push()",
+        "answer-2": "pop()",
+        "answer-3": "shift()",
+        "answer-4": "unshift()",
+        "correct-answer": "push()"
+    },
+    {
+        "title": "What is the output of 'typeof null'?",
+        "answer-1": "'object'",
+        "answer-2": "'null'",
+        "answer-3": "'undefined'",
+        "answer-4": "'number'",
+        "correct-answer": "'object'"
+    },
+    {
+        "title": "Which keyword is used to exit a loop in JavaScript?",
+        "answer-1": "break",
+        "answer-2": "exit",
+        "answer-3": "stop",
+        "answer-4": "return",
+        "correct-answer": "break"
+    },
+    {
+        "title": "How do you write an if statement in JavaScript?",
+        "answer-1": "if (condition) {}",
+        "answer-2": "if condition {}",
+        "answer-3": "if [condition] {}",
+        "answer-4": "if: condition {}",
+        "correct-answer": "if (condition) {}"
+    },
+    {
+        "title": "Which method converts a JSON string to a JavaScript object?",
+        "answer-1": "JSON.parse()",
+        "answer-2": "JSON.stringify()",
+        "answer-3": "parseJSON()",
+        "answer-4": "toObject()",
+        "correct-answer": "JSON.parse()"
+    },
+    {
+        "title": "Which of the following is a looping structure in JavaScript?",
+        "answer-1": "for",
+        "answer-2": "while",
+        "answer-3": "do...while",
+        "answer-4": "All of the above",
+        "correct-answer": "All of the above"
+    },
+    {
+        "title": "How do you access the first element of an array named 'arr'?",
+        "answer-1": "arr[0]",
+        "answer-2": "arr(0)",
+        "answer-3": "arr{0}",
+        "answer-4": "arr.0",
+        "correct-answer": "arr[0]"
+    },
+    {
+        "title": "Which method removes the last element from an array?",
+        "answer-1": "pop()",
+        "answer-2": "push()",
+        "answer-3": "shift()",
+        "answer-4": "unshift()",
+        "correct-answer": "pop()"
+    },
+    {
+        "title": "What is the correct way to write a JavaScript array?",
+        "answer-1": "var colors = ['red', 'green', 'blue'];",
+        "answer-2": "var colors = 'red', 'green', 'blue';",
+        "answer-3": "var colors = (1:'red', 2:'green', 3:'blue');",
+        "answer-4": "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue');",
+        "correct-answer": "var colors = ['red', 'green', 'blue'];"
+    },
+    {
+        "title": "Which event occurs when the user clicks on an HTML element?",
+        "answer-1": "onclick",
+        "answer-2": "onchange",
+        "answer-3": "onmouseover",
+        "answer-4": "onmouseclick",
+        "correct-answer": "onclick"
+    },
+    {
+        "title": "How do you round the number 7.25 to the nearest integer?",
+        "answer-1": "Math.round(7.25)",
+        "answer-2": "round(7.25)",
+        "answer-3": "Math.rnd(7.25)",
+        "answer-4": "rnd(7.25)",
+        "correct-answer": "Math.round(7.25)"
+    },
+    {
+        "title": "Which of the following is the correct way to write a comment in JavaScript?",
+        "answer-1": "// This is a comment",
+        "answer-2": "' This is a comment",
+        "answer-3": "<!-- This is a comment -->",
+        "answer-4": "# This is a comment",
+        "correct-answer": "// This is a comment"
+    },
+    {
+        "title": "How do you find the length of a string 'str'?",
+        "answer-1": "str.length",
+        "answer-2": "length(str)",
+        "answer-3": "str.len",
+        "answer-4": "str.length()",
+        "correct-answer": "str.length"
+    },
+    {
+        "title": "Which method joins two or more arrays?",
+        "answer-1": "concat()",
+        "answer-2": "join()",
+        "answer-3": "merge()",
+        "answer-4": "append()",
+        "correct-answer": "concat()"
+    },
+    {
+        "title": "Which keyword is used to define a constant in JavaScript?",
+        "answer-1": "const",
+        "answer-2": "constant",
+        "answer-3": "let",
+        "answer-4": "var",
+        "correct-answer": "const"
+    },
+    {
+        "title": "What will 'console.log(typeof [])' output?",
+        "answer-1": "'object'",
+        "answer-2": "'array'",
+        "answer-3": "'list'",
+        "answer-4": "'undefined'",
+        "correct-answer": "'object'"
+    },
+    {
+        "title": "Which method is used to remove whitespace from both ends of a string?",
+        "answer-1": "trim()",
+        "answer-2": "strip()",
+        "answer-3": "cut()",
+        "answer-4": "remove()",
+        "correct-answer": "trim()"
+    },
+    {
+        "title": "Which of the following statements about JavaScript closures is true?",
+        "answer-1": "A closure gives you access to an outer function’s scope from an inner function.",
+        "answer-2": "A closure is only available in ES6.",
+        "answer-3": "Closures cannot access variables outside their own scope.",
+        "answer-4": "Closures are only used for event handling.",
+        "correct-answer": "A closure gives you access to an outer function’s scope from an inner function."
+    },
+    {
+        "title": "What will be the output of: console.log([] + []);",
+        "answer-1": "[]",
+        "answer-2": "0",
+        "answer-3": "'' (empty string)",
+        "answer-4": "undefined",
+        "correct-answer": "'' (empty string)"
+    },
+    {
+        "title": "Which of the following is NOT a valid way to create an object in JavaScript?",
+        "answer-1": "var obj = {};",
+        "answer-2": "var obj = Object.create(null);",
+        "answer-3": "var obj = new Object();",
+        "answer-4": "var obj = Object();",
+        "correct-answer": "var obj = Object();"
+    },
+    {
+        "title": "What is the result of typeof NaN in JavaScript?",
+        "answer-1": "'undefined'",
+        "answer-2": "'object'",
+        "answer-3": "'number'",
+        "answer-4": "'NaN'",
+        "correct-answer": "'number'"
+    },
+    {
+        "title": "Which of the following statements about 'this' keyword is correct?",
+        "answer-1": "'this' always refers to the global object.",
+        "answer-2": "'this' refers to the object from which it was called.",
+        "answer-3": "'this' is always undefined in strict mode.",
+        "answer-4": "'this' can only be used inside functions.",
+        "correct-answer": "'this' refers to the object from which it was called."
+    },
+    {
+        "title": "What will be the output of: console.log(0.1 + 0.2 === 0.3);",
+        "answer-1": "true",
+        "answer-2": "false",
+        "answer-3": "undefined",
+        "answer-4": "TypeError",
+        "correct-answer": "false"
+    },
+    {
+        "title": "Which method can be used to copy all enumerable own properties from one or more source objects to a target object?",
+        "answer-1": "Object.assign()",
+        "answer-2": "Object.copy()",
+        "answer-3": "Object.clone()",
+        "answer-4": "Object.merge()",
+        "correct-answer": "Object.assign()"
+    },
+    {
+        "title": "What will be the output of: console.log(typeof function(){});",
+        "answer-1": "'object'",
+        "answer-2": "'function'",
+        "answer-3": "'undefined'",
+        "answer-4": "'method'",
+        "correct-answer": "'function'"
+    },
+    {
+        "title": "Which of the following is true about the 'let' keyword in JavaScript?",
+        "answer-1": "'let' is function-scoped.",
+        "answer-2": "'let' is block-scoped.",
+        "answer-3": "'let' variables are hoisted and initialized to undefined.",
+        "answer-4": "'let' can be redeclared in the same scope.",
+        "correct-answer": "'let' is block-scoped."
+    },
+    {
+        "title": "What will be the output of: console.log([1, 2, 3] == [1, 2, 3]);",
+        "answer-1": "true",
+        "answer-2": "false",
+        "answer-3": "undefined",
+        "answer-4": "TypeError",
+        "correct-answer": "false"
+    }
+]

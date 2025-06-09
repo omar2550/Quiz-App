@@ -1,0 +1,290 @@
+[
+    {
+        "title": "What <br> Element Do?",
+        "answer-1": "Make Text Bold",
+        "answer-2": "Make Text Italic",
+        "answer-3": "Add Breake Line",
+        "answer-4": "Add Horezontal Line",
+        "correct-answer": "Add Breake Line"
+    },
+    {
+        "title": "What is the correct HTML element for the largest heading?",
+        "answer-1": "<h6>",
+        "answer-2": "<heading>",
+        "answer-3": "<h1>",
+        "answer-4": "<head>",
+        "correct-answer": "<h1>"
+    },
+    {
+        "title": "Which HTML element is used to create a hyperlink?",
+        "answer-1": "<a>",
+        "answer-2": "<link>",
+        "answer-3": "<href>",
+        "answer-4": "<hyperlink>",
+        "correct-answer": "<a>"
+    },
+    {
+        "title": "Which tag is used to display an image in HTML?",
+        "answer-1": "<img>",
+        "answer-2": "<picture>",
+        "answer-3": "<src>",
+        "answer-4": "<image>",
+        "correct-answer": "<img>"
+    },
+    {
+        "title": "How do you write a comment in HTML?",
+        "answer-1": "// comment",
+        "answer-2": "<!-- comment -->",
+        "answer-3": "# comment",
+        "answer-4": "**comment**",
+        "correct-answer": "<!-- comment -->"
+    },
+    {
+        "title": "Which HTML element is used for emphasized text?",
+        "answer-1": "<b>",
+        "answer-2": "<em>",
+        "answer-3": "<i>",
+        "answer-4": "<strong>",
+        "correct-answer": "<em>"
+    },
+    {
+        "title": "What is the correct HTML for creating a checkbox?",
+        "answer-1": "<input type='checkbox'>",
+        "answer-2": "<checkbox>",
+        "answer-3": "<input checkbox>",
+        "answer-4": "<check>",
+        "correct-answer": "<input type='checkbox'>"
+    },
+    {
+        "title": "Which tag is used to create a numbered list?",
+        "answer-1": "<ul>",
+        "answer-2": "<ol>",
+        "answer-3": "<li>",
+        "answer-4": "<dl>",
+        "correct-answer": "<ol>"
+    },
+    {
+        "title": "What does the <hr> tag do?",
+        "answer-1": "Adds a horizontal line",
+        "answer-2": "Adds a heading",
+        "answer-3": "Adds a hyperlink",
+        "answer-4": "Adds a break line",
+        "correct-answer": "Adds a horizontal line"
+    },
+    {
+        "title": "Which attribute is used to provide an alternate text for an image?",
+        "answer-1": "alt",
+        "answer-2": "src",
+        "answer-3": "title",
+        "answer-4": "href",
+        "correct-answer": "alt"
+    },
+    {
+        "title": "Which tag is used to define a table row?",
+        "answer-1": "<tr>",
+        "answer-2": "<td>",
+        "answer-3": "<th>",
+        "answer-4": "<table>",
+        "correct-answer": "<tr>"
+    },
+    {
+        "title": "Which HTML element is used to specify a footer for a document or section?",
+        "answer-1": "<footer>",
+        "answer-2": "<bottom>",
+        "answer-3": "<section>",
+        "answer-4": "<foot>",
+        "correct-answer": "<footer>"
+    },
+    {
+        "title": "What is the correct HTML for making a text input field?",
+        "answer-1": "<input type='text'>",
+        "answer-2": "<textfield>",
+        "answer-3": "<input text>",
+        "answer-4": "<textinput>",
+        "correct-answer": "<input type='text'>"
+    },
+    {
+        "title": "Which tag is used to define a list item?",
+        "answer-1": "<li>",
+        "answer-2": "<ul>",
+        "answer-3": "<ol>",
+        "answer-4": "<dl>",
+        "correct-answer": "<li>"
+    },
+    {
+        "title": "Which HTML element is used to play video files?",
+        "answer-1": "<video>",
+        "answer-2": "<media>",
+        "answer-3": "<movie>",
+        "answer-4": "<play>",
+        "correct-answer": "<video>"
+    },
+    {
+        "title": "What is the correct HTML for inserting a line break?",
+        "answer-1": "<br>",
+        "answer-2": "<lb>",
+        "answer-3": "<break>",
+        "answer-4": "<newline>",
+        "correct-answer": "<br>"
+    },
+    {
+        "title": "Which tag is used to define an unordered list?",
+        "answer-1": "<ul>",
+        "answer-2": "<ol>",
+        "answer-3": "<li>",
+        "answer-4": "<list>",
+        "correct-answer": "<ul>"
+    },
+    {
+        "title": "Which HTML element is used to define important text?",
+        "answer-1": "<strong>",
+        "answer-2": "<b>",
+        "answer-3": "<em>",
+        "answer-4": "<important>",
+        "correct-answer": "<strong>"
+    },
+    {
+        "title": "Which attribute is used to open a link in a new tab?",
+        "answer-1": "target='_blank'",
+        "answer-2": "newtab='true'",
+        "answer-3": "open='new'",
+        "answer-4": "blank='yes'",
+        "correct-answer": "target='_blank'"
+    },
+    {
+        "title": "Which tag is used to define a table header?",
+        "answer-1": "<th>",
+        "answer-2": "<tr>",
+        "answer-3": "<td>",
+        "answer-4": "<thead>",
+        "correct-answer": "<th>"
+    },
+    {
+        "title": "What is the correct HTML for creating a drop-down list?",
+        "answer-1": "<select>",
+        "answer-2": "<dropdown>",
+        "answer-3": "<list>",
+        "answer-4": "<input type='dropdown'>",
+        "correct-answer": "<select>"
+    },
+    {
+        "title": "Which HTML element is used to define navigation links?",
+        "answer-1": "<nav>",
+        "answer-2": "<navigate>",
+        "answer-3": "<navigation>",
+        "answer-4": "<links>",
+        "correct-answer": "<nav>"
+    },
+    {
+        "title": "Which tag is used to define a paragraph?",
+        "answer-1": "<p>",
+        "answer-2": "<para>",
+        "answer-3": "<paragraph>",
+        "answer-4": "<text>",
+        "correct-answer": "<p>"
+    },
+    {
+        "title": "Which HTML element is used to display a scalar measurement within a known range?",
+        "answer-1": "<meter>",
+        "answer-2": "<progress>",
+        "answer-3": "<range>",
+        "answer-4": "<scale>",
+        "correct-answer": "<meter>"
+    },
+    {
+        "title": "Which tag is used to define a form in HTML?",
+        "answer-1": "<form>",
+        "answer-2": "<input>",
+        "answer-3": "<fieldset>",
+        "answer-4": "<forms>",
+        "correct-answer": "<form>"
+    },
+    {
+        "title": "Which HTML element is used to embed an audio file?",
+        "answer-1": "<audio>",
+        "answer-2": "<sound>",
+        "answer-3": "<music>",
+        "answer-4": "<media>",
+        "correct-answer": "<audio>"
+    },
+    {
+        "title": "Which HTML5 element is used to define content aside from the content it is placed in?",
+        "answer-1": "<aside>",
+        "answer-2": "<section>",
+        "answer-3": "<article>",
+        "answer-4": "<div>",
+        "correct-answer": "<aside>"
+    },
+    {
+        "title": "What is the default value of the 'target' attribute in an <a> tag?",
+        "answer-1": "_self",
+        "answer-2": "_blank",
+        "answer-3": "_parent",
+        "answer-4": "_top",
+        "correct-answer": "_self"
+    },
+    {
+        "title": "Which attribute is used to specify that an input field must be filled out before submitting the form?",
+        "answer-1": "required",
+        "answer-2": "validate",
+        "answer-3": "mandatory",
+        "answer-4": "mustfill",
+        "correct-answer": "required"
+    },
+    {
+        "title": "Which HTML element is used to group inline-elements in a document?",
+        "answer-1": "<span>",
+        "answer-2": "<div>",
+        "answer-3": "<section>",
+        "answer-4": "<group>",
+        "correct-answer": "<span>"
+    },
+    {
+        "title": "What is the correct HTML element for inserting a background audio that plays automatically?",
+        "answer-1": "<audio autoplay>",
+        "answer-2": "<bgsound>",
+        "answer-3": "<sound>",
+        "answer-4": "<audio background>",
+        "correct-answer": "<audio autoplay>"
+    },
+    {
+        "title": "Which attribute is used to specify the character encoding for the HTML document?",
+        "answer-1": "charset",
+        "answer-2": "encoding",
+        "answer-3": "lang",
+        "answer-4": "type",
+        "correct-answer": "charset"
+    },
+    {
+        "title": "Which HTML tag is used to define a client-side script, such as JavaScript?",
+        "answer-1": "<script>",
+        "answer-2": "<js>",
+        "answer-3": "<javascript>",
+        "answer-4": "<code>",
+        "correct-answer": "<script>"
+    },
+    {
+        "title": "Which HTML element is used to define a container for external application or interactive content (like a plug-in)?",
+        "answer-1": "<object>",
+        "answer-2": "<embed>",
+        "answer-3": "<applet>",
+        "answer-4": "<iframe>",
+        "correct-answer": "<object>"
+    },
+    {
+        "title": "What is the correct HTML for making a drop-down list that allows multiple selections?",
+        "answer-1": "<select multiple>",
+        "answer-2": "<dropdown multiple>",
+        "answer-3": "<select multi>",
+        "answer-4": "<input type='dropdown' multiple>",
+        "correct-answer": "<select multiple>"
+    },
+    {
+        "title": "Which HTML element is used to define a caption for a <figure> element?",
+        "answer-1": "<figcaption>",
+        "answer-2": "<caption>",
+        "answer-3": "<legend>",
+        "answer-4": "<description>",
+        "correct-answer": "<figcaption>"
+    }
+]

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/quiz-app.css">
+    <title>Quiz App</title>
+</head>
+<body>
+    <span class="layout"></span>
+    <div class="popup p-5 rounded-3 position-absolute top-50 start-50 translate-middle">
+        <h1>Choose Category:</h1>
+        <div class="categories d-flex gap-3 mt-4">
+            <span data-category="HTML" class="btn btn-dark text-light fw-bold">Html</span>
+            <span data-category="CSS" class="btn btn-dark text-light fw-bold">CSS</span>
+            <span data-category="JS" class="btn btn-dark text-light fw-bold">JavaScript</span>
+            <span data-category="JS" class="btn btn-dark text-light fw-bold">Python</span>
+            <span data-category="JS" class="btn btn-dark text-light fw-bold">C++</span>
+        </div>
+    </div>
+    <div class="container">
+        <header class="p-3 text-center mt-5 ms-auto me-auto position-relative">
+            <h1>Quiz App</h1>
+            <div class="timer"><span></span></div>
+        </header>
+    </div>
+    <section>
+        <div class="container">
+            <div class="question-area text-center p-5">
+            <div class="question">
+                
+            </div>
+            <div class="answers d-flex align-items-center justify-content-center fs-5 fw-bold gap-5 pt-3">
+                
+            </div>
+            </div>
+            <div class="progress d-flex align-items-center justify-content-center gap-3 p-5">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <div class="counter fs-5 fw-bold p-1 rounded-3"><span>0</span>/10</div>
+            </div>
+        </div>
+    </section>
+    <footer class="position-fixed bottom-0 p-3 text-center fw-bold w-100 text-light fs-5">
+        Created By Omar Hassein &copy; <span class="date"></span>
+    </footer>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/quiz-app.js"></script>
+</body>
+</html>

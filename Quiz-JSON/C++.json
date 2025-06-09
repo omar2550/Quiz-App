@@ -1,0 +1,291 @@
+[
+    {
+        "title": "What is the correct file extension for C++ source files?",
+        "answer-1": ".cpp",
+        "answer-2": ".c",
+        "answer-3": ".ccp",
+        "answer-4": ".cp",
+        "correct-answer": ".cpp"
+    },
+    {
+        "title": "Which of the following is used to output data in C++?",
+        "answer-1": "cout",
+        "answer-2": "cin",
+        "answer-3": "printf",
+        "answer-4": "output",
+        "correct-answer": "cout"
+    },
+    {
+        "title": "Which operator is used to access members of a class using a pointer?",
+        "answer-1": "->",
+        "answer-2": ".",
+        "answer-3": "::",
+        "answer-4": "#",
+        "correct-answer": "->"
+    },
+    {
+        "title": "What is the default access specifier for class members in C++?",
+        "answer-1": "private",
+        "answer-2": "public",
+        "answer-3": "protected",
+        "answer-4": "internal",
+        "correct-answer": "private"
+    },
+    {
+        "title": "Which keyword is used to create an object in C++?",
+        "answer-1": "new",
+        "answer-2": "create",
+        "answer-3": "object",
+        "answer-4": "make",
+        "correct-answer": "new"
+    },
+    {
+        "title": "Which of the following is not a C++ data type?",
+        "answer-1": "float",
+        "answer-2": "int",
+        "answer-3": "real",
+        "answer-4": "char",
+        "correct-answer": "real"
+    },
+    {
+        "title": "Which function is the entry point of a C++ program?",
+        "answer-1": "main()",
+        "answer-2": "start()",
+        "answer-3": "begin()",
+        "answer-4": "init()",
+        "correct-answer": "main()"
+    },
+    {
+        "title": "Which of the following is used for single line comments in C++?",
+        "answer-1": "//",
+        "answer-2": "/* */",
+        "answer-3": "#",
+        "answer-4": "--",
+        "correct-answer": "//"
+    },
+    {
+        "title": "Which header file is required for using 'cout' and 'cin'?",
+        "answer-1": "<iostream>",
+        "answer-2": "<stdio.h>",
+        "answer-3": "<conio.h>",
+        "answer-4": "<stream.h>",
+        "correct-answer": "<iostream>"
+    },
+    {
+        "title": "Which of the following is a loop structure in C++?",
+        "answer-1": "for",
+        "answer-2": "repeat",
+        "answer-3": "foreach",
+        "answer-4": "loop",
+        "correct-answer": "for"
+    },
+    {
+        "title": "Which keyword is used to define a constant in C++?",
+        "answer-1": "const",
+        "answer-2": "constant",
+        "answer-3": "define",
+        "answer-4": "static",
+        "correct-answer": "const"
+    },
+    {
+        "title": "Which of the following is used to allocate memory dynamically in C++?",
+        "answer-1": "new",
+        "answer-2": "malloc",
+        "answer-3": "alloc",
+        "answer-4": "calloc",
+        "correct-answer": "new"
+    },
+    {
+        "title": "Which of the following is not a valid C++ variable name?",
+        "answer-1": "2value",
+        "answer-2": "value2",
+        "answer-3": "_value",
+        "answer-4": "value_2",
+        "correct-answer": "2value"
+    },
+    {
+        "title": "Which keyword is used to inherit a class in C++?",
+        "answer-1": "public",
+        "answer-2": "extends",
+        "answer-3": "inherits",
+        "answer-4": "base",
+        "correct-answer": "public"
+    },
+    {
+        "title": "Which of the following is a correct way to declare a pointer?",
+        "answer-1": "int *ptr;",
+        "answer-2": "int ptr*;",
+        "answer-3": "int &ptr;",
+        "answer-4": "pointer int ptr;",
+        "correct-answer": "int *ptr;"
+    },
+    {
+        "title": "Which of the following is not a valid access specifier in C++?",
+        "answer-1": "internal",
+        "answer-2": "public",
+        "answer-3": "private",
+        "answer-4": "protected",
+        "correct-answer": "internal"
+    },
+    {
+        "title": "Which operator is used for scope resolution in C++?",
+        "answer-1": "::",
+        "answer-2": ".",
+        "answer-3": "->",
+        "answer-4": ":",
+        "correct-answer": "::"
+    },
+    {
+        "title": "Which of the following is used to define a macro in C++?",
+        "answer-1": "#define",
+        "answer-2": "macro",
+        "answer-3": "const",
+        "answer-4": "def",
+        "correct-answer": "#define"
+    },
+    {
+        "title": "Which of the following is not a loop in C++?",
+        "answer-1": "repeat-until",
+        "answer-2": "for",
+        "answer-3": "while",
+        "answer-4": "do-while",
+        "correct-answer": "repeat-until"
+    },
+    {
+        "title": "Which of the following is used to terminate a loop in C++?",
+        "answer-1": "break",
+        "answer-2": "exit",
+        "answer-3": "stop",
+        "answer-4": "end",
+        "correct-answer": "break"
+    },
+    {
+        "title": "Which of the following is the correct way to declare an array in C++?",
+        "answer-1": "int arr[10];",
+        "answer-2": "array int arr[10];",
+        "answer-3": "int arr;",
+        "answer-4": "arr int[10];",
+        "correct-answer": "int arr[10];"
+    },
+    {
+        "title": "Which of the following is used to read a string with spaces in C++?",
+        "answer-1": "getline()",
+        "answer-2": "cin",
+        "answer-3": "scanf",
+        "answer-4": "gets",
+        "correct-answer": "getline()"
+    },
+    {
+        "title": "Which of the following is not a valid C++ operator?",
+        "answer-1": "^^",
+        "answer-2": "+",
+        "answer-3": "-",
+        "answer-4": "*",
+        "correct-answer": "^^"
+    },
+    {
+        "title": "Which of the following is used to handle exceptions in C++?",
+        "answer-1": "try-catch",
+        "answer-2": "if-else",
+        "answer-3": "switch-case",
+        "answer-4": "goto",
+        "correct-answer": "try-catch"
+    },
+    {
+        "title": "Which of the following is used to declare a reference variable in C++?",
+        "answer-1": "int &ref = var;",
+        "answer-2": "int ref = &var;",
+        "answer-3": "int *ref = var;",
+        "answer-4": "int ref = var&;",
+        "correct-answer": "int &ref = var;"
+    },
+    {
+        "title": "Which of the following is used to deallocate memory in C++?",
+        "answer-1": "delete",
+        "answer-2": "free",
+        "answer-3": "remove",
+        "answer-4": "dispose",
+        "correct-answer": "delete"
+    },
+
+    {
+        "title": "What is the output of the following code? int a = 5; cout << a++ << ++a;",
+        "answer-1": "56",
+        "answer-2": "57",
+        "answer-3": "65",
+        "answer-4": "66",
+        "correct-answer": "57"
+    },
+    {
+        "title": "Which of the following is true about virtual functions in C++?",
+        "answer-1": "They support runtime polymorphism",
+        "answer-2": "They must be static",
+        "answer-3": "They cannot be overridden",
+        "answer-4": "They are only used in templates",
+        "correct-answer": "They support runtime polymorphism"
+    },
+    {
+        "title": "Which of the following is not a valid way to overload an operator in C++?",
+        "answer-1": "Overloading the sizeof operator",
+        "answer-2": "Overloading the + operator",
+        "answer-3": "Overloading the [] operator",
+        "answer-4": "Overloading the () operator",
+        "correct-answer": "Overloading the sizeof operator"
+    },
+    {
+        "title": "What is the output of: int x = 10; int y = x++ + ++x; cout << y;",
+        "answer-1": "22",
+        "answer-2": "21",
+        "answer-3": "20",
+        "answer-4": "23",
+        "correct-answer": "22"
+    },
+    {
+        "title": "Which of the following is true about pure virtual functions?",
+        "answer-1": "They make a class abstract",
+        "answer-2": "They must have a body",
+        "answer-3": "They cannot be inherited",
+        "answer-4": "They are static",
+        "correct-answer": "They make a class abstract"
+    },
+    {
+        "title": "Which of the following is not a valid STL container?",
+        "answer-1": "arraylist",
+        "answer-2": "vector",
+        "answer-3": "map",
+        "answer-4": "set",
+        "correct-answer": "arraylist"
+    },
+    {
+        "title": "What is the output of: vector<int> v = {1,2,3}; cout << v.size();",
+        "answer-1": "3",
+        "answer-2": "2",
+        "answer-3": "1",
+        "answer-4": "0",
+        "correct-answer": "3"
+    },
+    {
+        "title": "Which of the following is used to prevent a class from being inherited?",
+        "answer-1": "final",
+        "answer-2": "sealed",
+        "answer-3": "static",
+        "answer-4": "const",
+        "correct-answer": "final"
+    },
+    {
+        "title": "Which of the following is not a valid way to initialize a vector?",
+        "answer-1": "vector<int> v(5, 10);",
+        "answer-2": "vector<int> v = {1,2,3};",
+        "answer-3": "vector<int> v;",
+        "answer-4": "vector v = 1,2,3;",
+        "correct-answer": "vector v = 1,2,3;"
+    },
+    {
+        "title": "Which of the following is true about friend functions?",
+        "answer-1": "They can access private members",
+        "answer-2": "They are member functions",
+        "answer-3": "They cannot access protected members",
+        "answer-4": "They must be static",
+        "correct-answer": "They can access private members"
+    }
+]
